@@ -47,3 +47,4 @@ public class CustomerVisitTest{
         assertEquals(400,totalCost);
     }
 }
+
